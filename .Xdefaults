@@ -1,5 +1,5 @@
 !! Transparency (0-255):
-st.alpha: 240
+st.alpha: 0
 
 !! Set a default font and font size as below:
 st.font: Monospace-11;
