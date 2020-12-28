@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro,Awesome:weight=80:pixelsize=20:antialias=true:autohint=true";
+static char *font = "Source Code Pro,Awesome:weight=80::pixelsize=32:antialias=true:autohint=false:hinting=false:hintstyle=2:dpi=291";
+// static char *font = "Source Code Pro,Awesome:weight=80:pixelsize=20:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
